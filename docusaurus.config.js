@@ -34,7 +34,7 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js', // Path to sidebar configuration
           editUrl:
-              'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+              'https://github.com/thomas370/Wiki-dev',
         },
         theme: {
           customCss: './src/css/custom.css', // Custom CSS path
@@ -53,7 +53,7 @@ const config = {
       },
       items: [
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/thomas370/Wiki-dev',
           label: 'GitHub',
           position: 'right',
         },
