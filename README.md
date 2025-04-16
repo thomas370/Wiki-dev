@@ -1,41 +1,33 @@
-# Website
+# 👋 Bienvenue sur Wiki-dev
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+**Wiki-dev** est un site **open source** conçu **par et pour les développeurs**.  
+C’est un espace collaboratif où tu peux apprendre, partager et contribuer autour de tout ce qui touche au développement web, logiciel, DevOps, outils, bonnes pratiques, et bien plus encore.
 
-### Installation
+---
 
-```
-$ yarn
-```
+## 🚀 Pourquoi Wiki-dev ?
 
-### Local Development
+Parce qu’on en avait marre de chercher partout pour trouver des réponses claires et à jour.  
+Wiki-dev centralise des **tutos**, des **fiches pratiques**, des **snippets utiles**, des **astuces**, des **explications de concepts**, et des **guides de projets**.
 
-```
-$ yarn start
-```
+---
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## 🔧 Ce que tu peux trouver ici :
 
-### Build
+- 📘 Des guides pour débutants et confirmés  
+- 🛠️ Des ressources sur les langages, frameworks et outils  
+- 🌐 Des articles sur les bonnes pratiques, l'accessibilité, la perf, la sécurité...  
+- 🧪 Des tutos étape par étape pour monter des projets  
+- 🤝 Un esprit de communauté, chacun peut proposer du contenu ou améliorer l’existant
 
-```
-$ yarn build
-```
+---
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+## 🤲 Contribuer
 
-### Deployment
+Wiki-dev est **ouvert à tous** !  
+Tu peux rejoindre le projet sur [GitHub](https://github.com/thomas370/Wiki-dev) pour corriger, ajouter ou proposer du contenu.  
+Chaque contribution compte, même la plus petite 💙
 
-Using SSH:
+---
 
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+> **“Apprendre c’est bien. Partager ce qu’on apprend, c’est encore mieux.”**
