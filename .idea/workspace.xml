@@ -13,6 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "thomas370"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/thomas370/wiki-dev.git",
+    "accountId": "0468b3c1-ea80-47be-ad23-d98c67b38088"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -84,7 +96,7 @@
       <workItem from="1745279929544" duration="1019000" />
       <workItem from="1745322912543" duration="3566000" />
       <workItem from="1745400323889" duration="2630000" />
-      <workItem from="1745412901525" duration="7306000" />
+      <workItem from="1745412901525" duration="8009000" />
     </task>
     <servers />
   </component>
