@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cea64c8c-121d-46ca-afc5-0ec0ef84c44b" name="Changes" comment="[Update] files" />
+    <list default="true" id="cea64c8c-121d-46ca-afc5-0ec0ef84c44b" name="Changes" comment="[Update] remove files">
+      <change afterPath="$PROJECT_DIR$/TEMPLATE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +62,7 @@
       <recent name="C:\Users\thoma\Desktop\wiki-dev\docs\Langages de programmation\Frontend\FrameWorks\React" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\thoma\Desktop\wiki-dev\docs\Base de donnees\NoSQL" />
       <recent name="C:\Users\thoma\Desktop\wiki-dev\src\components\Card" />
       <recent name="C:\Users\thoma\Desktop\wiki-dev\docs\Langages de programmation\Backend" />
       <recent name="C:\Users\thoma\Desktop\wiki-dev\docs\Langages de programmation" />
@@ -98,7 +103,7 @@
       <workItem from="1745322912543" duration="3566000" />
       <workItem from="1745400323889" duration="2630000" />
       <workItem from="1745412901525" duration="8599000" />
-      <workItem from="1745480009987" duration="409000" />
+      <workItem from="1745480009987" duration="2746000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -132,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745480270627</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="[Update] remove files">
+      <option name="closed" value="true" />
+      <created>1745480438843</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745480438843</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +154,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
     <MESSAGE value="[Update] files" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Update] files" />
+    <MESSAGE value="[Update] remove files" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Update] remove files" />
   </component>
 </project>

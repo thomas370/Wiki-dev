@@ -33,6 +33,8 @@ DevWiki vise à devenir une **boîte à outils communautaire**, où chaque dev p
 C’est simple :
 
 1. Fork le repo GitHub
+2. 📄 Modèle de document (template)
+   Afin d’assurer l’uniformité et la clarté de la documentation, merci d’utiliser le template disponible dans ce repo : docs/TEMPLATE.md
 2. Ajoute/modifie un fichier dans `docs/`
 3. Propose une Pull Request
 
