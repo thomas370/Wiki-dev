@@ -9,7 +9,6 @@ tags:
   - PHP
 ---
 
-## Titre du document
 
 
 ### exemple de code
@@ -21,8 +20,6 @@ hello_world()
 ```
 
 ### exemple d'image
-
-![Texte alternatif de l'image](./img/mon_image.png)
 ...
 
 ### Section 1

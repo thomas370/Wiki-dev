@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cea64c8c-121d-46ca-afc5-0ec0ef84c44b" name="Changes" comment="[Update] remove files">
-      <change afterPath="$PROJECT_DIR$/TEMPLATE.md" afterDir="false" />
+    <list default="true" id="cea64c8c-121d-46ca-afc5-0ec0ef84c44b" name="Changes" comment="[Update] Add Les bases de Wordpress">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CMS/Wordpress/Les bases de Wordpress.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CMS/Wordpress/Les bases de Wordpress.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,22 +36,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/thoma/Desktop/wiki-dev/static/img",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "npm.start.executor": "Run",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/thoma/Desktop/wiki-dev/static/img&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.start.executor&quot;: &quot;Run&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\thoma\Desktop\wiki-dev\static\img" />
@@ -103,7 +102,8 @@
       <workItem from="1745322912543" duration="3566000" />
       <workItem from="1745400323889" duration="2630000" />
       <workItem from="1745412901525" duration="8599000" />
-      <workItem from="1745480009987" duration="2746000" />
+      <workItem from="1745480009987" duration="3311000" />
+      <workItem from="1745484108299" duration="615000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -145,7 +145,23 @@
       <option name="project" value="LOCAL" />
       <updated>1745480438843</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="[Update] Add TEMPLATE.md &amp; edit README.md">
+      <option name="closed" value="true" />
+      <created>1745483664760</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1745483664760</updated>
+    </task>
+    <task id="LOCAL-00007" summary="[Update] Add Les bases de Wordpress">
+      <option name="closed" value="true" />
+      <created>1745483860978</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1745483860978</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +171,8 @@
     <MESSAGE value="update" />
     <MESSAGE value="[Update] files" />
     <MESSAGE value="[Update] remove files" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Update] remove files" />
+    <MESSAGE value="[Update] Add TEMPLATE.md &amp; edit README.md" />
+    <MESSAGE value="[Update] Add Les bases de Wordpress" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Update] Add Les bases de Wordpress" />
   </component>
 </project>
